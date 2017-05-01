@@ -1,0 +1,3 @@
+# 2048
+A Simple puzzle game, which objective is to slide numbered tiles on a 4x4 board, to create a tile with number 2048. To move tiles use four arrow keys. Every turn, a new tile randomly appear in an empty spot on the board with a value 2 or 4. After clicked an arrow keys, tiles slides as far as possible in the chosen direction. If two tiles of the same number lie side by side while moving, they will mege into a tile with total value of the two tiles.
+Project was written only in C#.
